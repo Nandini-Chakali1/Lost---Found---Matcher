@@ -123,6 +123,6 @@ pytest
 
 ## Author
 
-**Jadav Akshara**, [GitHub](https://github.com/Akshara-Jadav)
+**Nandini Chakali**, [GitHub](https://github.com/Nandini-Chakali1/Lost---Found---Matche)
 # Lost---Found---Matcher
 Smart campus lost &amp; found system with weighted item matching and secure claim verification, built using FastAPI and Streamlit.
