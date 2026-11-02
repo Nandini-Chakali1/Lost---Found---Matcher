@@ -64,7 +64,7 @@ lost-found-matcher/
 **1. Clone and set up**
 
 ```bash
-git clone https://github.com/Akshara-Jadav/lost-found-matcher.git
+git clone https://github.com/Nandini-Chakali1/Lost---Found---Matcher.git
 cd lost-found-matcher
 python -m venv venv
 venv\Scripts\activate        # Windows
